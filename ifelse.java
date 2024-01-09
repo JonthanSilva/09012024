@@ -1,7 +1,0 @@
-/**
- * ifelse
- */
-public class ifelse {
-
-    
-}
